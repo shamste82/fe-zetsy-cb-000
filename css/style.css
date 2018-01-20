@@ -34,6 +34,5 @@ img {
 }
 
 #copyright {
-
-  right: 0px;
+  float: right;
 }
