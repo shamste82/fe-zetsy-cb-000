@@ -32,3 +32,7 @@ img {
 .sub-header {
   color: #9faba7;
 }
+
+#copyright {
+  float: right;
+}
